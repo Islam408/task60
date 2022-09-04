@@ -1,0 +1,15 @@
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\bin\Debug\net6.0\task60.exe
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\bin\Debug\net6.0\task60.deps.json
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\bin\Debug\net6.0\task60.runtimeconfig.json
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\bin\Debug\net6.0\task60.dll
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\bin\Debug\net6.0\task60.pdb
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\task60.csproj.AssemblyReference.cache
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\task60.AssemblyInfoInputs.cache
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\task60.AssemblyInfo.cs
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\task60.csproj.CoreCompileInputs.cache
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\task60.dll
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\refint\task60.dll
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\task60.pdb
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\task60.genruntimeconfig.cache
+C:\Users\mamae\OneDrive\Рабочий стол\ДЗC#\Lesson8_C#\Lesson8\task60\obj\Debug\net6.0\ref\task60.dll
